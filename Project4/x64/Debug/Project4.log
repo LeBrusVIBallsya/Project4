@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Brus\source\repos\Project4\Project4\MyForm.cpp(11,34): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Brus\source\repos\Project4\Project4\MyForm.cpp(101,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Brus\source\repos\Project4\Project4\MyForm.cpp(345,21): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project4.vcxproj -> C:\Users\Brus\source\repos\Project4\x64\Debug\Project4.exe
